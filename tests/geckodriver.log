@@ -1,0 +1,13 @@
+1673517836832	geckodriver	INFO	Listening on 127.0.0.1:57713
+1673517837356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57714" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/62/5fqk975j0p989c61vzcq28940000gn/T/rust_mozprofile7ee1VU"
+1673517838851	Marionette	INFO	Marionette enabled
+1673517839116	Marionette	INFO	Listening on port 57720
+Read port: 57720
+Read port: 57720
+WebDriver BiDi listening on ws://127.0.0.1:57714
+1673517840768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/62/5fqk975j0p989c61vzcq28940000gn/T/rust_mozprofile7ee1VU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57714/devtools/browser/ebe5eac2-8a98-4175-9258-b737cee59913
+2023-01-12 15:15:58.307 firefox-bin[13131:778955] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1673518856835	Marionette	INFO	Stopped listening on port 57720
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
